@@ -15,8 +15,8 @@ export const Work = [
         description:"A product listing website build in ReactJS. Only designed for mobile devices.",
         tags:["react"],
         
-        demo:"http://react-job-listing-website.codebucks27.vercel.app/",
-        github:"https://acnfti.netlify.app/"
+        demo:"https://acnfti.netlify.app/",
+        github:"https://github.com/Joyel2003/AC-NFTI.git"
         
     },
     {
